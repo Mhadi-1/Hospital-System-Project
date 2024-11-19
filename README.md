@@ -1,5 +1,5 @@
 
-# login Screen with checking password on Database 
+# login Screen with checking password
 
 ![image](https://github.com/user-attachments/assets/b73bff5f-8671-4593-b0a5-ccef2f493e77)
 
